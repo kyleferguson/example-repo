@@ -1,6 +1,6 @@
 version: '2'
 services:
-  app:
+  app1:
     image: nginx
     ports:
       - 8080:80
